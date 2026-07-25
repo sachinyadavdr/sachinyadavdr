@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- <img width="100%" src=""/> -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C2BD9,50:9333EA,100:C026D3&text=Sachin%20Yadav&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C2BD9,50:9333EA,100:C026D3&text=Sachin%20&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 <h1>👋 Hello World! I'm Sachin </h1>
 
 <h3>💜 Software Developer • Java Enthusiast • Full Stack Learner • AI Explorer</h3>
