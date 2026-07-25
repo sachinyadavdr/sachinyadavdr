@@ -330,14 +330,6 @@ Repeat 🔁
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sachinyadavdr&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
 ---
 
 # 🧑‍💻 Coding Journey
