@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C2BD9,50:9333EA,100:C026D3&text=Sachin%20&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 <h1>👋 Hello World! I'm Sachin </h1>
 
-<h3>💜 Software Developer • Java Enthusiast • Full Stack Learner • AI Explorer</h3>
+<h3>💜 Software Developer • Java Developer • Full Stack Learner • AI Explorer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Reality;Building+Real+World+Applications;Java+%7C+React+%7C+Node.js;Artificial+Intelligence+Explorer;Welcome+to+My+GitHub+Profile+🚀"/>
 
