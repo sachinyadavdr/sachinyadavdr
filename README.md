@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C2BD9,50:9333EA,100:C026D3&text=Sachin%20Yadav&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<h1>👋 Hello World! I'm Sachin Yadav</h1>
+<h1>👋 Hello World! I'm Sachin </h1>
 
 <h3>💜 Software Developer • Java Enthusiast • Full Stack Learner • AI Explorer</h3>
 
@@ -25,7 +25,7 @@
 <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ```yaml
-👨 Name        : Sachin Yadav
+👨 Name        : Sachin 
 
 🎓 Education  : B.Tech in Computer Science
 
@@ -35,7 +35,7 @@
 
 ❤️ Loves      : Java • AI • Web Development
 
-🌱 Learning   : Full Stack • AI/ML • System Design
+🌱 Learning   : Full Stack  • System Design
 
 🎯 Dream      : Software Engineer @ Top Tech Company
 
@@ -130,11 +130,11 @@ I enjoy transforming ideas into useful applications that solve real-world proble
 
 | Category | Technologies |
 |----------|--------------|
-| 👨‍💻 Languages | Java • JavaScript • TypeScript • Python |
+| 👨‍💻 Languages | Java • JavaScript • C • Python |
 | 🎨 Frontend | React • HTML5 • CSS3 • Tailwind CSS • Vite |
-| ⚙ Backend | Node.js • Express.js |
-| 🗄 Database | MongoDB • MySQL |
-| 🛠 Tools | Git • GitHub • VS Code • Postman |
+| ⚙ Backend | Node.js  |
+| 🗄 Database | MongoDB  |
+| 🛠 Tools | Git • GitHub • VS Code  |
 
 ---
 
@@ -590,29 +590,6 @@ Welcome, Sachin Yadav!
 
 ---
 
-# 💻 My Development Workflow
-
-```text
-💡 Idea
-   │
-   ▼
-📖 Research
-   │
-   ▼
-🎨 Design
-   │
-   ▼
-💻 Code
-   │
-   ▼
-🐞 Debug
-   │
-   ▼
-🚀 Deploy
-   │
-   ▼
-🔄 Improve
-```
 
 ---
 
@@ -645,24 +622,6 @@ Welcome, Sachin Yadav!
 💻 Full Stack Development
 
 ---
-
-# 📅 2026 Goals Tracker
-
-```text
-Java Mastery                ██████████████████ 100%
-
-DSA                         ███████████████░░ 85%
-
-React                       █████████████░░░░ 80%
-
-Node.js                     ███████████░░░░░░ 70%
-
-MongoDB                     ██████████░░░░░░░ 65%
-
-AI & Machine Learning       ███████░░░░░░░░░░ 50%
-
-System Design               █████░░░░░░░░░░░░ 35%
-```
 
 ---
 
