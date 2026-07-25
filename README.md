@@ -1,111 +1,277 @@
 <div align="center">
 
-# 👋 Hi, I'm Sachin Yadav
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8A2BE2&text=Sachin%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### 💻 B.Tech CSE Student | Java Developer | Full Stack Learner | AI/ML Enthusiast
+<h1>Hi 👋, I'm Sachin Yadav</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+%7C+DSA+%7C+React+%7C+Node.js;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
+<h3>💜 Java Developer | Full Stack Developer | AI & ML Enthusiast | B.Tech CSE Student</h3>
 
-![](https://komarev.com/ghpvc/?username=sachinyadavdr&color=blueviolet&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Java+Developer;React+Developer;Node.js+Developer;AI+%26+ML+Learner;Open+Source+Enthusiast;Always+Learning+Something+New+🚀"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sachinyadavdr&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sachinyadavdr?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/sachinyadavdr?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```yaml
-Name      : Sachin Yadav
-Education : B.Tech CSE (3rd Year)
-Location  : Uttar Pradesh, India 🇮🇳
-Focus     : Java | DSA | Full Stack | AI/ML
-Goal      : Software Engineer
+👨 Name        : Sachin Yadav
+
+🎓 Education  : B.Tech CSE (3rd Year)
+
+📍 Country    : India 🇮🇳
+
+💻 Languages  : Java, JavaScript, TypeScript
+
+🌱 Learning   : AI/ML, System Design
+
+🚀 Passion    : Full Stack Development
+
+🎯 Goal       : Software Engineer
+
+⚡ Fun Fact   : I enjoy solving real-world problems through code.
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🌌 My Coding Journey
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+> "Every great developer starts with a single line of code."
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### ⚙ Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-### 🛠 Tools
-Git • GitHub • VS Code • Postman
+I am passionate about creating impactful software that solves real-world problems. My interests include Full Stack Development, Artificial Intelligence, and Data Structures & Algorithms. I enjoy learning new technologies, building projects, and collaborating with the developer community.
 
 ---
 
-# 🌾 Featured Project
+# 🛠️ Tech Stack
 
-## Smart Kisan 🌱
+## 💻 Programming Languages
 
-✔ AI Plant Disease Detection
+<p>
 
-✔ Live Weather
+<img src="https://skillicons.dev/icons?i=java"/>
 
-✔ Live Mandi Prices
+<img src="https://skillicons.dev/icons?i=js"/>
 
-✔ AI Chatbot
+<img src="https://skillicons.dev/icons?i=ts"/>
 
-✔ Crop Recommendation
+<img src="https://skillicons.dev/icons?i=python"/>
 
-**Tech Used**
-
-React • Node.js • Express • MongoDB • AI APIs
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Frontend Development
 
-![](https://github-readme-stats.vercel.app/api?username=sachinyadavdr&show_icons=true&theme=tokyonight)
+<p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sachinyadavdr&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=react"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinyadavdr&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+## ⚙️ Backend Development
 
-![](https://github-profile-trophy.vercel.app/?username=sachinyadavdr&theme=tokyonight&row=1)
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+# 🌾 Smart Kisan
+
+An AI-powered agriculture platform designed to help farmers with intelligent farming solutions.
+
+### 🌟 Features
+
+✅ AI Plant Disease Detection
+
+✅ AI Chatbot
+
+✅ Live Weather Updates
+
+✅ GPS-Based Farming Support
+
+✅ Live Mandi Prices
+
+✅ Crop Recommendation
+
+✅ Modern Responsive UI
+
+---
+
+## ⚡ Currently Learning
+
+- Java DSA
+- React
+- Node.js
+- AI & Machine Learning
+- System Design
+- Open Source
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ 500+ DSA Problems
-- ✅ Build Amazing Full Stack Projects
-- ✅ Open Source Contribution
-- ✅ Software Engineering Internship
+🏆 Crack a Software Engineering Internship
+
+🚀 Build 10+ Full Stack Projects
+
+📚 Solve 500+ DSA Problems
+
+🤝 Contribute to Open Source
+
+🌱 Learn Advanced AI
 
 ---
 
-# 📫 Connect With Me
+# 💡 Quote
 
-💼 LinkedIn:
-https://www.linkedin.com/in/sachin-yadav-167572352/
+> **"Success doesn't come from what you know. It comes from what you build."**
 
-💻 GitHub:
-https://github.com/sachinyadavdr
+---# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachinyadavdr&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinyadavdr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinyadavdr&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinyadavdr&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sachinyadavdr&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🌟 What I Believe
+
+```text
+💡 Learn Every Day
+🚀 Build Real Projects
+🤝 Help Others
+📚 Never Stop Exploring
+```
+
+---
+
+# 🎖 Current Focus
+
+- ☕ Java Development
+- ⚛ React Projects
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- 📚 Data Structures & Algorithms
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sachinyadavdr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sachin-yadav-167572352/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my GitHub Profile!
 
-### 💜 "Code • Learn • Build • Repeat"
+### 💜 Happy Coding 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 </div>
