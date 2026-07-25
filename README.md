@@ -1,69 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8A2BE2&text=Sachin%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=260&section=header&text=Sachin%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h1>Hi 👋, I'm Sachin Yadav</h1>
 
 <h3>💜 Java Developer | Full Stack Developer | AI & ML Enthusiast | B.Tech CSE Student</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Java+Developer;React+Developer;Node.js+Developer;AI+%26+ML+Learner;Open+Source+Enthusiast;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=3500&pause=1000&color=BB00FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub!;Java+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Open+Source+Learner;Building+Projects+That+Matter+🚀" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sachinyadavdr&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sachinyadavdr&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/sachinyadavdr?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sachinyadavdr?label=Followers&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/stars/sachinyadavdr?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/sachinyadavdr?label=Stars&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🌌 About Me
 
 ```yaml
-👨 Name        : Sachin Yadav
+👨 Name          : Sachin Yadav
 
-🎓 Education  : B.Tech CSE (3rd Year)
+🎓 Degree        : Bachelor of Technology (CSE)
 
-📍 Country    : India 🇮🇳
+📚 Year          : Third Year
 
-💻 Languages  : Java, JavaScript, TypeScript
+📍 Country       : India 🇮🇳
 
-🌱 Learning   : AI/ML, System Design
+💻 Primary Skill : Java Development
 
-🚀 Passion    : Full Stack Development
+🌐 Secondary     : React • Node.js • MongoDB
 
-🎯 Goal       : Software Engineer
+🤖 Interested In : Artificial Intelligence & Machine Learning
 
-⚡ Fun Fact   : I enjoy solving real-world problems through code.
+🏆 Goal          : Become a Software Engineer
+
+🚀 Motto         : Learn • Build • Improve • Repeat
 ```
 
 ---
 
-# 🌌 My Coding Journey
+# 🚀 My Story
 
-> "Every great developer starts with a single line of code."
+I am a passionate Computer Science student who enjoys solving real-world problems through technology.
 
-I am passionate about creating impactful software that solves real-world problems. My interests include Full Stack Development, Artificial Intelligence, and Data Structures & Algorithms. I enjoy learning new technologies, building projects, and collaborating with the developer community.
+I love building modern web applications, exploring Artificial Intelligence, and strengthening my Data Structures & Algorithms skills.
+
+My goal is to become a Software Engineer who builds products that create a positive impact.
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Current Focus
 
-## 💻 Programming Languages
+✔ Java Programming
+
+✔ Data Structures & Algorithms
+
+✔ React Development
+
+✔ Backend Development
+
+✔ Artificial Intelligence
+
+✔ Open Source
+
+---
+
+# 🧠 Developer Mindset
+
+```text
+💡 Keep Learning
+⚡ Keep Building
+🎯 Keep Improving
+🚀 Never Give Up
+```
+
+---
+
+# 🏅 What Makes Me Different?
+
+✨ I enjoy building real-world applications.
+
+🌱 I believe consistency beats talent.
+
+💻 I love learning new technologies.
+
+🤝 Always ready to collaborate on exciting projects.
+
+📚 Every day I try to become a better developer than yesterday.
+
+---
+
+# 🌍 A Little More About Me
+
+🎯 Passionate about Software Development
+
+☕ Coffee + Music + Coding
+
+🌱 Lifelong Learner
+
+💡 Curious about AI, Web Development & Open Source
+
+🚀 Love creating useful applications for people
+
+---
+
+<div align="center">
+
+### 💜 "Code is not just syntax. It is creativity, logic, and impact."
+
+</div>
+
+---
+
+# ⚔️ Tech Universe
+
+> *The technologies I enjoy working with are listed below.*
+# 💻 Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp&theme=dark"/>
 </p>
 
 ---
@@ -71,17 +135,7 @@ I am passionate about creating impactful software that solves real-world problem
 ## 🌐 Frontend Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,bootstrap&theme=dark"/>
 </p>
 
 ---
@@ -89,115 +143,150 @@ I am passionate about creating impactful software that solves real-world problem
 ## ⚙️ Backend Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 </p>
 
 ---
 
-## 🗄️ Database
+## 🗄️ Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"/>
 </p>
 
 ---
 
-## 🛠 Tools & Platforms
+## 🛠️ Tools & Platforms
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark"/>
 </p>
-
----
-
-# 🚀 Featured Project
-
-# 🌾 Smart Kisan
-
-An AI-powered agriculture platform designed to help farmers with intelligent farming solutions.
-
-### 🌟 Features
-
-✅ AI Plant Disease Detection
-
-✅ AI Chatbot
-
-✅ Live Weather Updates
-
-✅ GPS-Based Farming Support
-
-✅ Live Mandi Prices
-
-✅ Crop Recommendation
-
-✅ Modern Responsive UI
-
----
-
-## ⚡ Currently Learning
-
-- Java DSA
-- React
-- Node.js
-- AI & Machine Learning
-- System Design
-- Open Source
-
----
-
-# 🎯 2026 Goals
-
-🏆 Crack a Software Engineering Internship
-
-🚀 Build 10+ Full Stack Projects
-
-📚 Solve 500+ DSA Problems
-
-🤝 Contribute to Open Source
-
-🌱 Learn Advanced AI
-
----
-
-# 💡 Quote
-
-> **"Success doesn't come from what you know. It comes from what you build."**
-
----# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachinyadavdr&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinyadavdr&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Featured Projects
+
+## 🌾 Smart Kisan
+
+> **AI-Powered Agriculture Platform**
+
+### 🌟 Features
+
+🌦️ Live Weather Forecast
+
+🌾 Crop Recommendation System
+
+🦠 AI Plant Disease Detection
+
+📈 Live Mandi Prices
+
+🤖 AI Farming Assistant Chatbot
+
+📍 GPS Based Farming Support
+
+📱 Responsive User Interface
+
+**Tech Stack**
+
+```text
+React.js
+Node.js
+Express.js
+MongoDB
+REST APIs
+AI Integration
+```
+
+---
+
+## 💡 Other Projects
+
+### 💼 Portfolio Website
+
+A responsive personal portfolio showcasing projects, skills, achievements, and contact information.
+
+---
+
+### 📚 Java DSA Practice
+
+A collection of Data Structures & Algorithms solutions implemented in Java.
+
+---
+
+### 🤖 AI Learning Projects
+
+Small AI and Machine Learning experiments built while learning new concepts.
+
+---
+
+# 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinyadavdr&theme=tokyonight&hide_border=true"/>
+| 🚀 Learning | 📈 Progress |
+|-------------|-------------|
+| Java DSA | █████████░ 90% |
+| React.js | ████████░░ 80% |
+| Node.js | ███████░░░ 70% |
+| MongoDB | ██████░░░░ 60% |
+| AI / ML | █████░░░░░ 50% |
+| System Design | ████░░░░░░ 40% |
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+✅ Solve 500+ DSA Problems
+
+✅ Build 10+ Full Stack Projects
+
+✅ Learn AI & Machine Learning
+
+✅ Contribute to Open Source
+
+✅ Crack Software Engineering Internship
+
+---
+
+# 🌟 Fun Facts
+
+💜 I love solving coding problems.
+
+🚀 I enjoy building real-world applications.
+
+☕ Coffee + Coding = Productivity
+
+🎧 Music makes debugging easier.
+
+🌱 Every day is a chance to learn something new.
+
+---
+
+<div align="center">
+
+## ⚡ "Dream Big. Start Small. Build Daily."
+
+</div>
+
+---# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinyadavdr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinyadavdr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinyadavdr&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -207,71 +296,217 @@ An AI-powered agriculture platform designed to help farmers with intelligent far
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinyadavdr&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinyadavdr&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sachinyadavdr&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sachinyadavdr&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 🌟 What I Believe
+# 🎖️ Coding Profiles
+
+<div align="center">
+
+| Platform | Status |
+|----------|--------|
+| 💻 LeetCode | Solving DSA Daily |
+| 🟢 GeeksforGeeks | Active Learner |
+| ⚡ HackerRank | Java & Problem Solving |
+| 🚀 GitHub | Building Projects |
+
+</div>
+
+---
+
+# 📜 Certifications & Learning
+
+- 🎓 Java Programming
+- 🎓 Data Structures & Algorithms
+- 🎓 Web Development
+- 🎓 AI & Machine Learning (Learning)
+- 🎓 Full Stack Development
+
+---
+
+# 🏅 Highlights
+
+✨ Built AI-based **Smart Kisan** platform
+
+🌱 Passionate about solving real-world problems
+
+💻 Consistent Java & DSA practice
+
+🚀 Exploring AI, Full Stack & Open Source
+
+🤝 Always excited to learn new technologies
+
+---
+
+# 💼 Open Source Goals
+
+- 🌟 Make my first Open Source Contribution
+- 🔥 Build impactful Full Stack Projects
+- 🤝 Collaborate with developers worldwide
+- 🚀 Share useful projects with the community
+
+---
+
+# 🧠 Daily Routine
 
 ```text
-💡 Learn Every Day
-🚀 Build Real Projects
-🤝 Help Others
-📚 Never Stop Exploring
+☀️ Learn
+      ↓
+💻 Code
+      ↓
+🐞 Debug
+      ↓
+📚 Read
+      ↓
+🚀 Repeat
 ```
 
 ---
 
-# 🎖 Current Focus
+# 💬 Favorite Quotes
 
-- ☕ Java Development
-- ⚛ React Projects
-- 🌐 Full Stack Development
-- 🤖 Artificial Intelligence
-- 📚 Data Structures & Algorithms
+> **"Programs must be written for people to read, and only incidentally for machines to execute."**  
+> — Harold Abelson
+
+<br>
+
+> **"Stay hungry. Stay foolish."**  
+> — Steve Jobs
 
 ---
 
-# 🤝 Connect With Me
+# 🌟 Fun Developer Facts
+
+🧩 I enjoy solving coding challenges.
+
+🌱 Learning something new every single day.
+
+☕ Coffee + Music + Code = Perfect Combination.
+
+🚀 My dream is to build products that impact millions of users.
+
+---
+
+<div align="center">
+
+### ⭐ Every line of code is a step toward excellence.
+
+</div>
+
+---# 🐍 Contribution Snake
+
+<div align="center">
+
+> **Note:** Snake animation tab dikhegi jab tum GitHub Actions configure karoge.
+
+<img src="https://raw.githubusercontent.com/sachinyadavdr/sachinyadavdr/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/sachinyadavdr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sachin-yadav-167572352/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💬 Favorite Quote
+# 🤝 Let's Collaborate
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+💡 I'm always interested in collaborating on:
+
+- 🚀 Full Stack Web Applications
+- 🤖 AI & Machine Learning Projects
+- 🌾 AgriTech Solutions
+- ☁️ Cloud & Backend Development
+- 💻 Open Source Contributions
+
+If you have an exciting idea, feel free to connect with me!
+
+---
+
+# 🎯 Vision
+
+```text
+📚 Learn continuously
+💻 Build impactful products
+🌍 Solve real-world problems
+🚀 Grow as a Software Engineer
+🤝 Give back to the developer community
+```
+
+---
+
+# ❤️ Support
+
+If you like my projects:
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+🤝 Follow me on GitHub
+
+💬 Connect with me on LinkedIn
+
+---
+
+# ⚡ Random Developer Quote
+
+<div align="center">
+
+> "The best way to predict the future is to create it."
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+```yaml
+Name          : Sachin Yadav
+Role          : B.Tech CSE Student
+Primary Skill : Java
+Interested In : Full Stack Development & AI/ML
+Projects       : Smart Kisan & More
+Goal           : Software Engineer
+```
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my GitHub Profile!
+## 🚀 Thanks for visiting my profile!
 
-### 💜 Happy Coding 🚀
+### ⭐ Keep Learning • Keep Building • Keep Growing
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=130&section=footer"/>
 
 </div>
