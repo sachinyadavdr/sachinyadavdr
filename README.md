@@ -22,7 +22,7 @@
 
 # 🚀 About Me
 
-<img align="right" width="330" height="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="330" height="323" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ```yaml
 👨 Name        : Sachin 
