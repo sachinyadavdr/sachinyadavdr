@@ -47,7 +47,7 @@
 # 🌌 Who Am I?
 
 ```java
-public class SachinYadav {
+public class Sachin {
 
     String education = "B.Tech CSE";
 
@@ -286,7 +286,6 @@ Java
 React
 Node.js
 AI
-System Design
 
 > life
 
